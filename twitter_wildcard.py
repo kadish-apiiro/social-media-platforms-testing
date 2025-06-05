@@ -1,3 +1,3 @@
 from twitter import *
 
-print("Imported with wildcard!)
+print("Imported with wildcard!")
